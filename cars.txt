@@ -3,5 +3,5 @@ Fiat
 Zle auto
 Toyota
 
-Skioda
+Skoda
 
