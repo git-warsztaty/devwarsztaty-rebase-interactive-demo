@@ -1,0 +1,7 @@
+# vim
+*.txt~
+*.swp
+*.swo
+
+# Remainings from resolvings conflicts in Source Control
+*.orig
